@@ -1,0 +1,20 @@
+{
+    "candidate_email": "johndoe@gmail.com",
+    "skills_detected": [
+        "Python",
+        "C",
+        "SQL",
+        "Machine Learning",
+        "AWS",
+        "Power BI"
+    ],
+    "experience": 3,
+    "matched_skills": [
+        "Python",
+        "SQL",
+        "Machine Learning"
+    ],
+    "missing_skills": [],
+    "match_score": 93.95,
+    "recommendation": "\ud83d\udfe2 Strong Match \u2014 Recommended for Interview"
+}

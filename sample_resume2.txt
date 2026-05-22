@@ -1,0 +1,12 @@
+Alice Smith
+
+Email: alice@gmail.com
+
+Phone:
+9123456789
+
+Skills:
+Java, HTML, CSS, React, Git
+
+Experience:
+2 years
